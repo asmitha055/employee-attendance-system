@@ -35,3 +35,13 @@ The app auto-navigates after login based on role.
 - Change API base via `VITE_API_URL` in `frontend/.env`.
 - CORS is allowed by backend for development.
 - CSV export downloads via `/api/attendance/export`.
+<img width="1544" height="786" alt="Screenshot 2025-11-30 150820" src="https://github.com/user-attachments/assets/88536db5-567c-4199-a325-fae782cfb672" />
+
+<img width="1679" height="818" alt="Screenshot 2025-11-30 153956" src="https://github.com/user-attachments/assets/726d80fe-9347-4263-833f-8a3553338966" />
+
+<img width="1585" height="875" alt="Screenshot 2025-11-30 154017" src="https://github.com/user-attachments/assets/eeda0c81-cec3-495d-83a6-7b8da246079d" />
+
+<img width="1523" height="281" alt="Screenshot 2025-11-30 154045" src="https://github.com/user-attachments/assets/b2623979-9a7e-433c-846c-d58f54fd80ed" />
+
+
+
