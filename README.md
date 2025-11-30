@@ -1,5 +1,9 @@
 # Employee Attendance System — Full Stack (React + Node + MongoDB)
 
+Name: S Asmitha
+College Name: Hinudsthan Institute of Technology
+Contact Number: 9025652161
+
 This repo contains **frontend** (Vite + React + Zustand) and the **backend** you already tested.
 
 ## Quick Start
