@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply text-slate-800 bg-gray-50; }
+}
+
+@layer components {
+  .card { @apply bg-white rounded-2xl shadow-soft border border-slate-100; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2 font-medium transition; }
+  .btn-primary { @apply bg-primary text-white hover:bg-blue-700; }
+  .btn-outline { @apply border border-slate-300 text-slate-700 hover:bg-slate-50; }
+  .input { @apply w-full rounded-xl border border-slate-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40; }
+  .label { @apply text-sm font-medium text-slate-700; }
+  .title { @apply text-xl font-semibold text-ink; }
+  .muted { @apply text-sm text-slate-500; }
+}
